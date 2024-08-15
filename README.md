@@ -5,7 +5,10 @@ All of my config files which I'd be using on Xubunutu 22
 
 ### Kitty Terminal
 
-![terminal picture](terminal.png)
+![terminal picture](./assets/terminal.png)
+
+### VS Code
+![v s code themeing](./assets/image.png)
 
 ## Software
 
@@ -18,3 +21,7 @@ Oh My Zsh is a delightful, open source, community-driven framework for managing 
 
 The fast, feature-rich, GPU based terminal emulator Fast Offloads rendering to the GPU for lower system load, Uses threaded rendering for absolutely minimal loadtimes.
 >[Kovid Goyal - Kitty](https://sw.kovidgoyal.net/kitty/)
+
+### VS Code
+Visual Studio Code, also commonly referred to as VS Code, is a source-code editor developed by Microsoft for Windows, Linux, macOS and web browsers. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded version control with Git.
+>[Does this really need to be here?](https://code.visualstudio.com/)
